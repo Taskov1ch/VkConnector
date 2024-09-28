@@ -19,7 +19,7 @@
 ## Correct Launch 🚀
 
 #### Bot 🤖
-1. Run the command `poetry install` in the bot directory to install all necessary dependencies.
+1. Run the command `poetry install` in the bot directory to install all necessary dependencies *(after this you won’t have to enter this command)*.
 3. Run the command `poetry run python loader.py`.
 
 #### Game Server 🔑
