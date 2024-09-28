@@ -1,6 +1,6 @@
 ## Requirements 🔌
 - Server with Internet access **(VDS or PC)**, as well as with pre-installed **Python 3.10 (or higher)** and **Poetry**.
-- A **Minecraft PE/BE** game server running on the **PocketMine-MP 5** core, also with internet access.
+- A **Minecraft BE** game server running on the **PocketMine-MP 5** core, also with internet access.
 
 ## Installation ⚡
 
