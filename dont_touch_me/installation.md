@@ -1,11 +1,11 @@
 ## Requirements 🔌
 - Server with Internet access **(VDS or PC)**, as well as with pre-installed **Python 3.10 (or higher)** and **Poetry**.
-- A **Minecraft BE** game server running on the **PocketMine-MP 5** core, also with internet access.
+- A **Minecraft PE/BE** game server running on the **PocketMine-MP 5** core, also with internet access.
 
 ## Installation ⚡
 
 #### Plugin Installation 📦
-1. Download the archive with plugins for your game version [here](https://github.com/Taskov1ch/TelegramMC/releases).
+1. Download the archive with plugins [here](https://github.com/Taskov1ch/TelegramMC/releases).
 2. Unpack the archive with plugins and install all the plugins from the archive on your game server.
 3. Start and stop the server to create the configs.
 4. Configure the plugin configs for your server.
